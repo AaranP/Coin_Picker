@@ -5,7 +5,7 @@ robot is made using a folded chassis, servo motors, and servo wheels. It has an 
 an arm controlled by servo motors that is used to pick up the coin. A microcontroller was used to
 control the various circuitry components to operate the robot.
 
-[![Coin Picking Robot](https://www.youtube.com/watch?v=dFou7sFT2Rw/0.jpg)](https://www.youtube.com/watch?v=dFou7sFT2Rw)
+[![Coin Picking Robot](https://img.youtube.com/vi/dFou7sFT2Rw/0.jpg)](https://www.youtube.com/watch?v=dFou7sFT2Rw)
 
 Specifications
 
