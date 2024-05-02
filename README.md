@@ -7,9 +7,7 @@ control the various circuitry components to operate the robot.
 
 [![Coin Picking Robot](https://img.youtube.com/vi/dFou7sFT2Rw/0.jpg)](https://www.youtube.com/watch?v=dFou7sFT2Rw)
 
-Specifications
-
-Hardware:
+## Hardware:
 - Robot:
 	- 2 x Solarbotics GM4
 	- 2 x Servo Wheel 2.63" x 0.35" (pair)
